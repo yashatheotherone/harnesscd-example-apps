@@ -1,0 +1,5 @@
+service:
+  name: harnessguestbookdep
+  identifier: harnessguestbookdep
+  orgIdentifier: default
+  projectIdentifier: default_project
